@@ -18,4 +18,8 @@ describe('String#title_case') do
     expect(("the").title_case()).to(eq("The"))
   end
 
+  it("changes all caps to title caps") do
+    expect(("PURITY").title_case()).to(eq("Purity"))
+  end
+
 end
