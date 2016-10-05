@@ -1,8 +1,7 @@
 ##_Title Case_
 
-#### _{Brief description of application}, {June 27, 2016}_
-
-#### By _**{Noah Yasskin & Sky Rousse}**_
+#### By _Noah Yasskin & Sky Rousse_
+#### _June 27, 2016_
 
 ## Description
 
